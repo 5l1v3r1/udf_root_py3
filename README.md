@@ -18,10 +18,15 @@ UDF lib shellcodes retrieved from metasploit (there are windows .dll libraries w
 
 Based on the famous raptor_udf.c by Marco Ivaldi (EDB ID: 1518)
 CVE: N/A
+
 References:
-https://dev.mysql.com/doc/refman/5.5/en/create-function-udf.html
-https://www.exploit-db.com/exploits/1518
-https://www.exploit-db.com/papers/44139/ - MySQL UDF Exploitation by Osanda Malith Jayathissa (@OsandaMalith)
+
+[https://dev.mysql.com/doc/refman/5.5/en/create-function-udf.html](https://dev.mysql.com/doc/refman/5.5/en/create-function-udf.html)
+
+[https://www.exploit-db.com/exploits/1518](https://www.exploit-db.com/exploits/1518)
+
+[https://www.exploit-db.com/papers/44139/](https://www.exploit-db.com/papers/44139/) - MySQL UDF Exploitation by Osanda Malith Jayathissa (@OsandaMalith)
+
 
 * * *
 
